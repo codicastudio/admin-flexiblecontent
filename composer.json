@@ -3,7 +3,7 @@
     "description": "A random Codica Studio package.",
 
     "homepage": "https://github.com/codica-studio/adminflexiblecontent",
-    "license": "MIT",
+    "license": "MIT", 
     "authors": [
         {
             "name": "Michael J Brown",
