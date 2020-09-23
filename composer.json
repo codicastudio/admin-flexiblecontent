@@ -1,9 +1,7 @@
 {
     "name": "codica-studio/adminflexiblecontent",
     "description": "A random Codica Studio package.",
-    "keywords": [
-        ""
-    ],
+
     "homepage": "https://github.com/codica-studio/adminflexiblecontent",
     "license": "MIT",
     "authors": [
